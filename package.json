@@ -28,8 +28,7 @@
     "node": ">=4.0.0"
   },
   "scripts": {
-    "prepublish": "cake build-min",
-    "test": "cake build && cake test"
+    "test": "cake test"
   },
   "author": "Zach Kelling <zk@crowdstart.com> (http://zeekay.io)",
   "licenses": [
